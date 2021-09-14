@@ -1,3 +1,9 @@
+Person A
 Användare på GitHub: Forslund16
 Namn: William Forslund
 Epost: william.forslund.0576@student.uu.se	
+
+Person B
+Användare på GitHub: Bruce1887
+Namn: Edvin Bruce
+Epost: edvin.bruce.8688@student.uu.se
