@@ -7,3 +7,8 @@ Person B
 Användare på GitHub: Bruce1887
 Namn: Edvin Bruce
 Epost: edvin.bruce.8688@student.uu.se
+
+Person C 
+Användare på GitHub: abbesnabbe
+Namn: Albert Alstensada
+Epost: albert.alpsten@hotmail.com
